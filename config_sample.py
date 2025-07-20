@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "5351211036:AAE2rkomPy_iELP2JrTtTTcAb7gWzcPPq4U"
+OWNER_ID = 2080060354
+TELEGRAM_API = 8864773
+TELEGRAM_HASH = "0d2355c5f0d713381fa9b47d76b4611e"
+DATABASE_URL = "mongodb+srv://KINGCOBRA:KINGCOBRA@cluster0.78kgdr5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -11,8 +11,8 @@ TG_PROXY = (
     {}
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+CMD_SUFFIX = "2"
+AUTHORIZED_CHATS = "-1001954385244"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -20,7 +20,7 @@ STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
 EXCLUDED_EXTENSIONS = ""
-INCOMPLETE_TASK_NOTIFIER = False
+INCOMPLETE_TASK_NOTIFIER = True
 YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
 NAME_SWAP = ""
@@ -150,8 +150,8 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_REPO = "https://github.com/cobraking97/New-Wzml-X"
+UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = True
 
 # Leech
